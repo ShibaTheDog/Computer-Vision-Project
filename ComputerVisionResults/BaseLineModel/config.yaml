@@ -1,0 +1,16 @@
+path: /content/drive/MyDrive/IAT360/Datasets/Phone Data/
+train: /content/drive/MyDrive/IAT360/Datasets/Phone Data/train/images
+test: /content/drive/MyDrive/IAT360/Datasets/Phone Data/test/images
+val: /content/drive/MyDrive/IAT360/Datasets/Phone Data/valid/images
+
+
+
+# Classes
+nc: 1 # replace based on your dataset's number of classes
+
+#Most likely 1 (on phone)
+
+# Class names
+# replace all class names with your own classes' names
+names:
+  0: phone_Hand
