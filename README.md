@@ -10,3 +10,11 @@ In the following 3 weeks, you will be building on your previous work with image 
 - Integrate your custom dataset into the YOLO framework (transfer learning).
 - Fine-tune the YOLO model using your dataset. This involves adjusting the model's parameters to better suit your specific data.
 - Conduct evaluation of your fine-tuned YOLO model. Use appropriate metrics to assess its performance (e.g., precision, recall, accuracy, F1 score, etc.). 
+
+
+
+**Things we added** 
+- ComputerVisionResults contains our model's findings as well as the YAML file of the model. We decdied to download and upload it to gitHub because it was all located on a google server
+- newComputerImages contains our new images. Some may be unlabelled but there are 60 labelled images that should be contained in there.
+
+
